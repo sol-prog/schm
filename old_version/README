@@ -1,5 +1,3 @@
-Update: 2011/11/21 Completely changed the structure of the code (the old code is in "old_version" if you are interested).
-
 Here you could find the code for "Implementing Scheme in C++", for more informations visit the project webpage:
 
 http://solarianprogrammer.com/2011/11/14/scheme-in-cpp/
