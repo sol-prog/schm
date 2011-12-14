@@ -133,7 +133,3 @@ string PList::elem(size_t pos) {
 void PList::puts(string ss) {
     store.push_back(ss);
 }
-
-PList::~PList() {
-    store.clear();
-}
