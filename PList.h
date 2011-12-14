@@ -42,5 +42,4 @@ public:
 
     //Add a string at the end of the current vector
     void puts(string ss);
-    ~PList();
 };
